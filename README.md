@@ -5,5 +5,5 @@
 React Js, Styled-components, Css ...
 
 # URL | Host
-    - https://jolly-valkyrie-514c5c.netlify.app/  
+- https://jolly-valkyrie-514c5c.netlify.app/  
 
